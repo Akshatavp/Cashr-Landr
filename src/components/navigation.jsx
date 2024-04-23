@@ -18,7 +18,7 @@ export const Navigation = (props) => {
             <span className="icon-bar"></span>{" "}
           </button>
           <a className="navbar-brand page-scroll" href="#page-top">
-            React Landing Page
+            CASHR
           </a>{" "}
         </div>
 
@@ -60,6 +60,15 @@ export const Navigation = (props) => {
             <li>
               <a href="#contact" className="page-scroll">
                 Contact
+              </a>
+            </li>
+            <li>
+              <a
+                href="https://redux-cashr.vercel.app/"
+                target="_blank"
+                className="page-scroll"
+              >
+                Demo
               </a>
             </li>
           </ul>
