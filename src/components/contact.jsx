@@ -161,10 +161,10 @@ export const Contact = (props) => {
           <p>
             &copy; 2024 CASHR Billing and Inventory Management System. Design
             and Developed by{" "}
-            <a href="http://www.templatewire.com" rel="nofollow">
+            <a href="https://github.com/Dhanushchandra" rel="nofollow">
               DHANUSH |
             </a>
-            <a href="http://www.templatewire.com" rel="nofollow">
+            <a href="https://github.com/Akshatavp/" rel="nofollow">
               &nbsp;AKSHATA
             </a>
           </p>
